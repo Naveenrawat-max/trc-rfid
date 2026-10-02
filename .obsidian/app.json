@@ -1,0 +1,22 @@
+{
+  "attachmentFolderPath": "_attachments",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "userIgnoreFilters": [
+    ".git/",
+    "node_modules/",
+    "__pycache__/",
+    ".venv/",
+    "venv/",
+    "dist/",
+    "build/",
+    "target/",
+    ".next/",
+    "coverage/"
+  ]
+}
